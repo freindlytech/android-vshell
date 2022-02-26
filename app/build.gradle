@@ -2,7 +2,7 @@ import java.security.DigestInputStream
 import java.security.MessageDigest
 
 apply plugin: 'com.android.application'
-apply from: 'release.gradle'
+
 
 android {
     compileSdkVersion 32
